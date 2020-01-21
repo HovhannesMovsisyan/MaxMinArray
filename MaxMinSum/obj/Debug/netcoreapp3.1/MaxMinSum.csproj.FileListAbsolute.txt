@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.exe
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.deps.json
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.runtimeconfig.json
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.dll
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\bin\Debug\netcoreapp3.1\MaxMinSum.pdb
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\obj\Debug\netcoreapp3.1\MaxMinSum.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\obj\Debug\netcoreapp3.1\MaxMinSum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\obj\Debug\netcoreapp3.1\MaxMinSum.AssemblyInfo.cs
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\obj\Debug\netcoreapp3.1\MaxMinSum.dll
+C:\Users\HP\source\repos\MaxMinSum\MaxMinSum\obj\Debug\netcoreapp3.1\MaxMinSum.pdb
